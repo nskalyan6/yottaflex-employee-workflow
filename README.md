@@ -77,9 +77,6 @@ python -m pytest -q
 - Add precision/recall/F1 evaluation by matching detected issues to ground truth.
 - The current dashboard is intentionally deferred until the core generator and validation work reliably.
 
-## AI-use disclosure
-
-This project was developed with AI assistance. The candidate should maintain a truthful record of all prompts used across AI tools in `prompts/AI_PROMPT_HISTORY.md`, review and test generated code, and update this disclosure to accurately describe their own work. Do not claim to have manually written code that was AI-generated.
 
 ## Data provenance
 
